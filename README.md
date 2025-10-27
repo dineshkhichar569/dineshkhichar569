@@ -42,6 +42,7 @@
 💻 [**GitHub**](https://github.com/dineshkhichar569)  
 🧩 [**LeetCode**](https://leetcode.com/u/DineshSunny/)  
 🐦 [**X (Twitter)**](https://x.com/IZEL_4582)
+🔗 [**ORCID iD**](https://orcid.org/0009-0007-5479-9099)  
 
 ---
 
