@@ -1,22 +1,48 @@
-# 👋 Hi, I'm Dinesh Khichar
+# 👋 Hey there, I'm **Dinesh Khichar**
 
-I'm a **Full-Stack Web Developer** skilled in the **MERN Stack (MongoDB, Express.js, React, Node.js)**.  
-I’m passionate about building clean, scalable, and user-centric web applications.
+💻 **Full-Stack Web Developer** | MERN + Next.js + TypeScript  
+🚀 Turning ideas into interactive, scalable, and user-centric digital experiences.
+
+---
 
 ## 💼 What I Do
-- 🔨 Build Full-Stack Projects using the MERN stack
-- 🎨 Design modern, responsive UIs with Tailwind CSS & Bootstrap
-- 🌐 Develop RESTful APIs and integrate with MongoDB
-- 🚀 Optimize performance, usability, and deployment workflows
+- 🔨 Develop **Full-Stack Web Applications** with clean, modular architecture  
+- ⚛️ Build modern UIs with **React**, **Next.js**, **Tailwind CSS**, and **Bootstrap**  
+- 🌐 Design and integrate **RESTful APIs** using **Node.js**, **Express.js**, and **MongoDB**  
+- ⚙️ Focus on **performance**, **accessibility**, **smooth deployment workflows** and **Search engine optimization** 
+- 🧠 Write maintainable, type-safe code with **JavaScript** and **TypeScript**
+
+---
+
+## 🧠 Tech Stack
+**Frontend:** HTML • CSS • JavaScript • React • Next.js • TypeScript • TailwindCSS • Bootstrap  
+**Backend:** Node.js • Express.js • MongoDB • Mongoose  
+**Programming:** Java (for DSA & problem-solving)  
+**Tools & Others:** Git • GitHub • Postman • VS Code • Intellij Idea • Vercel • Netlify • Chrome DevTools • Shopify
+
+---
 
 ## 📁 Portfolio
-Check out my work: [**My Portfolio Website**](https://dineshportfolios.site/)  
+🎯 Explore my projects and designs on  
+👉 **[dineshportfolios.site](https://dineshportfolios.site/)**  
+
+---
 
 ## 🤝 I’m Open To
-- 💬 Collaborating on real-world projects
-- 🧠 Learning opportunities & tech discussions
-- 🌟 Internship or freelance roles in full-stack development
+- 💬 Collaborating on real-world, impactful projects  
+- 🌱 Learning opportunities & open-source contributions  
+- 🎯 Internship or freelance roles in **Full-Stack / Next.js Development**
 
-## 📫 Get in Touch
-📧 **wollverinel97@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/dinesh-khichar-5265b4282/) • [GitHub](https://github.com/dineshkhichar569)
+---
+
+## 📫 Let’s Connect
+📧 **Personal:** dineshkhichar569@gmail.com  
+📧 **Work:** dinesh.khichar.work@gmail.com  
+🌐 [**LinkedIn**](https://www.linkedin.com/in/dinesh-khichar-5265b4282/)  
+💻 [**GitHub**](https://github.com/dineshkhichar569)  
+🧩 [**LeetCode**](https://leetcode.com/u/DineshSunny/)  
+🐦 [**X (Twitter)**](https://x.com/IZEL_4582)
+
+---
+
+⭐ *“Code. Create. Improve. Inspire.”*
