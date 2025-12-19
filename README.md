@@ -1,16 +1,16 @@
 # 👋 Hey there, I'm **Dinesh Khichar**
 
-💻 **Full-Stack Web Developer** | MERN + Next.js + TypeScript  
+💻 **Full-Stack Web Developer** | MERN  
 🚀 Turning ideas into interactive, scalable, and user-centric digital experiences.
 
 ---
 
 ## 💼 What I Do
 - 🔨 Develop **Full-Stack Web Applications** with clean, modular architecture  
-- ⚛️ Build modern UIs with **React**, **Next.js**, **Tailwind CSS**, and **Bootstrap**  
+- ⚛️ Build modern UIs with **React**, **Tailwind CSS**, and **Bootstrap**  
 - 🌐 Design and integrate **RESTful APIs** using **Node.js**, **Express.js**, and **MongoDB**  
 - ⚙️ Focus on **performance**, **accessibility**, **smooth deployment workflows** and **Search engine optimization** 
-- 🧠 Write maintainable, type-safe code with **JavaScript** and **TypeScript**
+- 🧠 Write maintainable, type-safe code with **JavaScript**
 
 ---
 
