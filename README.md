@@ -25,8 +25,13 @@
 ---
 
 ## 📁 Portfolio
-🎯 Explore my projects and designs on  
-👉 **[dineshportfolios.site](https://dineshportfolios.site/)**  
+🎨 Portfolio | Modern • Animated • Scalable
+
+⚡ A curated collection of my Full-Stack MERN, Shopify, and DSA-driven projects
+🧠 Focused on clean UI, smooth animations, and production-ready code
+
+👉 Live Portfolio:
+🔗 **[dineshportfolios.site](https://dineshportfolios.site/)**
 
 ---
 
