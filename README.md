@@ -27,8 +27,8 @@
 ## 📁 Portfolio
 🎨 Portfolio | Modern • Animated • Scalable
 
-⚡ A curated collection of my Full-Stack MERN, Shopify, and DSA-driven projects
-🧠 Focused on clean UI, smooth animations, and production-ready code
+- ⚡ A curated collection of my Full-Stack MERN, Shopify, and DSA-driven projects
+- 🧠 Focused on clean UI, smooth animations, and production-ready code
 
 👉 Live Portfolio:
 🔗 **[dineshportfolios.site](https://dineshportfolios.site/)**
