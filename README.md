@@ -37,6 +37,11 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
 ## 📫 Let’s Connect
 📧 **Personal:** dineshkhichar569@gmail.com  
 📧 **Work:** dinesh.khichar.work@gmail.com  
