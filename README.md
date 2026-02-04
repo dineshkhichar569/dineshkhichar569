@@ -25,7 +25,7 @@
 ---
 
 ## 📁 Portfolio
-🎨 Portfolio | Modern • Animated • Scalable
+🎨 Portfolio | Modern 🔶️ Animated 🔶️ Scalable
 
 - ⚡ A curated collection of my Full-Stack MERN, Shopify, and DSA-driven projects
 - 🧠 Focused on clean UI, smooth animations, and production-ready code
@@ -58,4 +58,4 @@
 
 ---
 
-⭐ *“Code. Create. Improve. Inspire.”*
+⭐ *“ Code. Create. Improve. Inspire.”*
