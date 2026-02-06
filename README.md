@@ -45,6 +45,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+in+Java;Shopify+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+
 ---
 
 ## 📫 Let’s Connect
