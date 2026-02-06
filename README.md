@@ -1,16 +1,33 @@
-# 👋 Hey there, I'm **Dinesh Khichar**
+# 👋 Hey, I’m **Dinesh Khichar**
 
-💻 **Full-Stack Web Developer** | MERN  
-🚀 Turning ideas into interactive, scalable, and user-centric digital experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=70A5FD&center=true&vCenter=true&width=720&lines=Full-Stack+MERN+Developer;DSA+in+Java;Shopify+Developer;Building+Scalable+Web+Products" />
+</p>
+
+<p align="center">
+  <b>Turning ideas into scalable, high-performance, user-centric digital products.</b>
+</p>
+
+---
+
+## 🧠 About Me
+I’m a **Full-Stack Web Developer** specializing in the **MERN stack**, with a strong focus on:
+
+- Clean, modular architecture  
+- Scalable backend systems  
+- Modern, responsive, and accessible UIs  
+- Production-ready deployment workflows  
+
+I enjoy building products that are not just functional, but **maintainable, performant, and polished**.
 
 ---
 
 ## 💼 What I Do
-- 🔨 Develop **Full-Stack Web Applications** with clean, modular architecture  
-- ⚛️ Build modern UIs with **React**, **Tailwind CSS**, and **Bootstrap**  
-- 🌐 Design and integrate **RESTful APIs** using **Node.js**, **Express.js**, and **MongoDB**  
-- ⚙️ Focus on **performance**, **accessibility**, **smooth deployment workflows** and **Search engine optimization** 
-- 🧠 Write maintainable, type-safe code with **JavaScript**
+- 🔨 Develop **end-to-end full-stack web applications**
+- ⚛️ Build modern interfaces using **React**, **Tailwind CSS**, and **Bootstrap**
+- 🌐 Design & integrate **RESTful APIs** with **Node.js**, **Express**, and **MongoDB**
+- ⚙️ Optimize for **performance, SEO, accessibility, and scalability**
+- 🧠 Solve problems using **Java (DSA & algorithmic thinking)**
 
 ---
 
@@ -48,7 +65,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-e11f22?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
-<p align="center"><i>Used for DSA & problem-solving</i></p>
+<p align="center"><i>Used for Data Structures, Algorithms & problem-solving</i></p>
 
 ---
 
@@ -65,48 +82,44 @@
   <img src="https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=shopify&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 📁 Portfolio
-🎨 Portfolio | Modern 🔶️ Animated 🔶️ Scalable
+🎨 **Modern • Animated • Scalable**
 
-- ⚡ A curated collection of my Full-Stack MERN, Shopify, and DSA-driven projects
-- 🧠 Focused on clean UI, smooth animations, and production-ready code
+- ⚡ Full-Stack MERN & Shopify projects  
+- 🧠 Clean UI, smooth animations, production-ready code  
+- 🚀 Built with performance and real-world use in mind  
 
-👉 Live Portfolio:
-🔗 **[dineshportfolios.site](https://dineshportfolios.site/)**
-
----
-
-## 🤝 I’m Open To
-- 💬 Collaborating on real-world, impactful projects  
-- 🌱 Learning opportunities & open-source contributions  
-- 🎯 Internship or freelance roles in **Full-Stack / Next.js Development**
+👉 **Live Portfolio:**  
+🔗 **https://dineshportfolios.site/**
 
 ---
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+in+Java;Shopify+Developer" />
-</p>
+## 🤝 Open To
+- 💬 Collaborating on meaningful real-world projects  
+- 🌱 Open-source & learning opportunities  
+- 🎯 Internship / Freelance roles in **Full-Stack / Next.js Development**
 
+---
+
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
 
 ---
 
 ## 📫 Let’s Connect
 📧 **Personal:** dineshkhichar569@gmail.com  
 📧 **Work:** dinesh.khichar.work@gmail.com  
-🌐 [**LinkedIn**](https://www.linkedin.com/in/dinesh-khichar-5265b4282/)  
-💻 [**GitHub**](https://github.com/dineshkhichar569)  
-🧩 [**LeetCode**](https://leetcode.com/u/DineshSunny/)  
-🐦 [**X (Twitter)**](https://x.com/IZEL_4582)
-🔗 [**ORCID iD**](https://orcid.org/0009-0007-5479-9099)  
+
+🌐 **LinkedIn:** https://www.linkedin.com/in/dinesh-khichar-5265b4282/  
+💻 **GitHub:** https://github.com/dineshkhichar569  
+🧩 **LeetCode:** https://leetcode.com/u/DineshSunny/  
+🐦 **X (Twitter):** https://x.com/IZEL_4582  
+🔗 **ORCID:** https://orcid.org/0009-0007-5479-9099  
 
 ---
 
-⭐ *“ Code. Create. Improve. Inspire.”*
+⭐ **“Code. Create. Improve. Inspire.”**
