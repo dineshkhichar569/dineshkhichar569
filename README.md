@@ -99,7 +99,7 @@
 
 - 💬 Collaborating on real-world, impactful projects  
 - 🌱 Learning opportunities & open-source contributions  
-- 🎯 Internship or freelance roles in **Full-Stack / Next.js Development**
+- 🎯 Internship or freelance roles in **Full-Stack / Mern Stack Development**
 
 ---
 
