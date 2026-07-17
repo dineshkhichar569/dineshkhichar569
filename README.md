@@ -89,7 +89,7 @@
 ⚡ A curated collection of my Full-Stack MERN, Shopify, and DSA-driven projects  
 🧠 Focused on clean UI, smooth animations, and production-ready code  
 
-👉 **[dineshportfolios.site](https://dineshk.site/)**
+👉 **[dineshk.site](https://dineshk.site/)**
 
 </div>
 
