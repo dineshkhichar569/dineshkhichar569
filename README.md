@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Dinesh+Khichar;Full-Stack+Web+Developer+%7C+MERN;Turning+Ideas+Into+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Dinesh+Khichar;React.js+Developer+%7C+Frontend+Engineer;Building+Fast%2C+Responsive+UIs" />
 
 
 </div>
@@ -9,9 +9,9 @@
 
 <div align="center">
 
-💻 **Full-Stack Web Developer** | MERN  
+⚛️ **React.js Developer** | Frontend Engineer  
 
-🚀 Turning ideas into interactive, scalable, and user-centric digital experiences.
+🚀 Building fast, responsive, component-driven interfaces with React.
 
 </div>
 
@@ -23,15 +23,15 @@
 <tr>
 <td>
 
-🔨 Develop **Full-Stack Web Applications** with clean, modular architecture  
+⚛️ Build modern, responsive UIs with **React**, **Tailwind CSS**, **Bootstrap**, and **Framer Motion**  
 
-⚛️ Build modern UIs with **React**, **Tailwind CSS**, and **Bootstrap**  
+🧩 Design **reusable component architecture** using React hooks and React Router  
 
-🌐 Design and integrate **RESTful APIs** using **Node.js**, **Express.js**, and **MongoDB**  
+⚡ Focus on **performance**, **accessibility**, and **SEO**: lazy-loaded routes, CDN images, smooth deployments  
 
-⚙️ Focus on **performance**, **accessibility**, **smooth deployment workflows** and **Search engine optimization**  
+🌐 Connect React frontends to **RESTful APIs** built with **Node.js**, **Express.js**, and **MongoDB**  
 
-🧠 Write maintainable, type-safe code with **JavaScript**
+🧠 Write clean, modular, maintainable **JavaScript**
 
 </td>
 </tr>
@@ -43,11 +43,12 @@
 
 ### 🎨 Frontend
 <p align="center">
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
@@ -86,7 +87,7 @@
 
 🎨 **Portfolio | Modern 🔶️ Animated 🔶️ Scalable**
 
-⚡ A curated collection of my Full-Stack MERN, Shopify, and DSA-driven projects  
+⚡ A curated collection of my React frontend, full-stack, Shopify, and DSA-driven projects  
 🧠 Focused on clean UI, smooth animations, and production-ready code  
 
 👉 **[dineshk.site](https://dineshk.site/)**
@@ -99,14 +100,14 @@
 
 - 💬 Collaborating on real-world, impactful projects  
 - 🌱 Learning opportunities & open-source contributions  
-- 🎯 Internship or freelance roles in **Full-Stack / Mern Stack Development**
+- 🎯 Internship or freelance roles in **React.js / Frontend Development**
 
 ---
 
 ## ✍️ Random Dev Quote
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;DSA+in+Java;Shopify+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=70A5FD&center=true&vCenter=true&width=600&lines=React.js+Developer;DSA+in+Java;Shopify+Developer" />
 </p>
 
 <p align="center">
