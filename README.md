@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Dinesh+Khichar;React.js+Developer+%7C+Frontend+Engineer;Building+Fast%2C+Responsive+UIs" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Dinesh+Khichar;Full+Stack+Developer+%7C+MERN+%26+Shopify;Building+Fast%2C+Scalable+Web+Products" />
 
 
 </div>
@@ -9,9 +9,9 @@
 
 <div align="center">
 
-⚛️ **React.js Developer** | Frontend Engineer  
+💻 **Full Stack Developer** | MERN Stack | Shopify Developer  
 
-🚀 Building fast, responsive, component-driven interfaces with React.
+🚀 I build complete web products: React frontends, Node.js APIs, MongoDB databases, and custom Shopify stores.
 
 </div>
 
@@ -29,7 +29,11 @@
 
 ⚡ Focus on **performance**, **accessibility**, and **SEO**: lazy-loaded routes, CDN images, smooth deployments  
 
-🌐 Connect React frontends to **RESTful APIs** built with **Node.js**, **Express.js**, and **MongoDB**  
+🌐 Build full stack **MERN** apps end to end: **RESTful APIs** with **Node.js**, **Express.js**, **MongoDB**, plus **Firebase** for auth and data  
+
+🛍️ Build custom **Shopify** stores and sections with **Liquid**, converting Figma designs into pixel-accurate themes for real clients  
+
+💼 Freelance developer on Upwork, shipping production sites for clients
 
 🧠 Write clean, modular, maintainable **JavaScript**
 
@@ -49,7 +53,7 @@
 <img src="https://img.shields.io/badge/Framer%20Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shopify%20Liquid-96bf48?style=for-the-badge&logo=shopify&logoColor=white"/>
 </p>
 
 ### 🛠 Backend
@@ -58,6 +62,7 @@
 <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ### 💻 Programming
@@ -87,10 +92,12 @@
 
 🎨 **Portfolio | Modern 🔶️ Animated 🔶️ Scalable**
 
-⚡ A curated collection of my React frontend, full-stack, Shopify, and DSA-driven projects  
+⚡ Full stack MERN apps, Shopify client builds, and DSA-driven projects
 🧠 Focused on clean UI, smooth animations, and production-ready code  
 
-👉 **[dineshk.site](https://dineshk.site/)**
+👉 **[dineshk.site](https://dineshk.site/)** (main portfolio)
+
+✨ **[Interactive intro version](https://the-intro.wollverinel97.workers.dev/)** (alternate portfolio)
 
 </div>
 
@@ -100,14 +107,14 @@
 
 - 💬 Collaborating on real-world, impactful projects  
 - 🌱 Learning opportunities & open-source contributions  
-- 🎯 Internship or freelance roles in **React.js / Frontend Development**
+- 🎯 Full-time, internship, or freelance roles in **Full Stack (MERN) Development** and **Shopify Development**
 
 ---
 
 ## ✍️ Random Dev Quote
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=70A5FD&center=true&vCenter=true&width=600&lines=React.js+Developer;DSA+in+Java;Shopify+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack;Shopify+Developer;DSA+in+Java" />
 </p>
 
 <p align="center">
